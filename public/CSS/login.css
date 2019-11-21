@@ -1,0 +1,52 @@
+.div-container-login-gradient{
+    background: rgb(248,151,255);
+    background: linear-gradient(90deg, rgba(248,151,255,1) 0%, rgba(219,51,252,1) 50%, rgba(155,18,255,1) 100%);
+    height: 543px;
+}
+.div-container-login{
+    padding-top: 100px;
+}
+.div-in-login-dash-btn button{
+    box-shadow: none !important;
+    background: rgb(248,151,255);
+    background: linear-gradient(90deg, rgba(248,151,255,1) 0%, rgba(219,51,252,1) 50%, rgba(155,18,255,1) 100%);
+    color: white;
+    font-size: 11pt;
+    letter-spacing: 1px;
+    font-weight: bold;
+    border-radius: 20px;
+}
+.div-title-card-login-dash span{
+    font-size: 20pt;
+    font-weight: bold;
+    letter-spacing: 2px;
+    color: #505050;
+}
+.div-in-login-dash-user input{
+    border: 1px solid silver !important;
+    border-radius: 5px !important;
+    background-color: #ededed !important;
+    color: #505050 !important;
+    font-size: 11pt !important;
+    letter-spacing: 1px !important;
+    box-shadow: none !important;
+   
+}
+.div-in-login-dash-pass input{
+    border: 1px solid silver !important;
+    border-radius: 5px !important;
+    background-color: #ededed !important;
+    color: #505050 !important;
+    font-size: 11pt !important;
+    letter-spacing: 1px !important;
+    box-shadow: none !important;
+}
+.div-foo-card-login-dash{
+    text-align: center;
+}
+.div-foo-card-login-dash span{
+    color: #969696;
+    letter-spacing: 1px;
+    font-size: 9pt;
+    
+}

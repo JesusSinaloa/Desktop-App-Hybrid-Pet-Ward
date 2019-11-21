@@ -1,0 +1,87 @@
+.div-container-menu{
+    margin: 0 !important;
+}
+.div-left-menu{
+    background-color: #ebebeb;
+    height: 542px;
+}
+.div-search-aside input{
+    border: 1px solid silver !important;
+    background-color: white !important;
+    border-radius: 5px !important;
+    box-shadow: none !important;
+    height: 25px !important;
+    padding-left: 3px !important;
+}
+.div-container-menu ul{
+    background-color: none !important;
+}
+.div-user-config-aside div{
+    padding-top: 5px !important;
+}
+.div-user-config-aside div > i{
+    font-size: 20px;
+    color: #505050;
+}
+.div-user-config-aside div > span{
+    font-size: 20px;
+    color: #505050;
+}
+.div-container-menu ul li{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    
+}
+.div-container-menu ul li a{
+    color: #969696;
+    font-size: 12pt;
+    letter-spacing: 2px;
+}
+.div-container-menu ul li i{
+    color: #807e7e;
+    font-size: 20px; 
+    margin-right: 20px;   
+}
+.div-title-result{
+    border-bottom: 1px solid #e1e1e1;
+    margin-bottom: 20px;
+    padding: 0 10px 0 10px;
+}
+.div-title-result .title h5{
+    color: #505050;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+.div-title-result .icons-returns div i{
+    color: #969696;
+    font-size: 15px;
+}
+.div-right-menu{
+  
+}
+.div-result-container{
+    padding: 0 10px 0 10px !important;
+}
+.icons-returns{
+    margin-bottom: 5px !important;
+}
+/*ADOPTIONS*/
+.card-container-adoptions > a{
+    color: #969696;
+    letter-spacing: 1px;
+}
+.card-container-adoptions > div{
+border-bottom: 1px solid #ebebeb;
+margin-bottom: 5px;
+}
+.div-icon-check i{
+    color: #1ddc2ba3;
+    font-size: 15px;
+}
+.div-img-pet-circle-adoptions img{
+    width: 30px;
+    border-radius: 50%;
+    border: 1px solid #969696;
+}
+
+/*END ADOPTIONS*/
